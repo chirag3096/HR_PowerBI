@@ -1,0 +1,207 @@
+EMP ID,Departmets,Groups,Job Type,Marital Status,Age,Business Unit,Hire Date,Emp.Type,Sick Days,Balance Days,Years in current role,Years since last promition,Education,Job Involvement,Job Satisfaction,Performance Rating,Relationship Satisfaction,WorkLife Balance,Last Name,Gender,Salary,Job Classification
+EMP 1,LEGAL DEPARTMENT ,Group C,Full Time,Married,55,Seattle,2/26/2023,Non Active,12,14,3 Years,3 Years,College,High,Medium,Outstanding,High,Good,Horn,Female,89900,White Collar
+EMP 2,RESEARCH AND DEVELOPMENT,Group B,Full Time,Divorced,32,New York City,6/12/2022,Non Active,4,12,3 Years,3 Years,Bachelor,Low,Medium,Outstanding,Medium,Good,Alvarado,Female,107482,White Collar
+EMP 3,ACCOUNTING,Group B,Part Time,Divorced,37,New York City,3/27/2022,Active,10,11,3 Years,3 Years,Bachelor,Medium,Low,Low,High,Better,Sanders,Male,104528,Other
+EMP 3,ACCOUNTING,Group B,Part Time,Divorced,37,New York City,3/27/2022,Active,10,11,3 Years,3 Years,Bachelor,Medium,Low,Low,High,Better,Sanders,Male,104528,Other
+EMP 4,HUMAN RESOURCES,Group B,Full Time,Married,28,Seattle,11/26/2023,Active,7,12,3 Years,3 Years,Masters,Medium,Medium,Excellent,Very High,Better,Cortez,Male,105759,White Collar
+EMP 5,ACCOUNTING,Group A,Full Time,Single,62,Los Angeles,3/3/2021,Active,7,7,1 Year,2 Years,Bachelor,Medium,Low,Good,Medium,Bad,Jensen,Female,108554,Other
+EMP 6,ADVERTISING,Group C,Part Time,Married,48,Seattle,3/19/2021,Active,9,7,2 Years,1 Year,Doctor,High,High,Low,High,Bad,Hatfield,Male,94501,Blue Collar
+EMP 7,FINANCES,Group B,Part Time,Married,64,Los Angeles,3/1/2021,Active,12,9,2 Years,1 Year,College,Low,Low,Good,High,Bad,Casey,Male,84552,White Collar
+EMP 8,FINANCES,Group A,Part Time,Divorced,55,Houston,5/7/2022,Non Active,11,16,1 Year,2 Years,Doctor,Very High,Medium,Low,Low,Good,Dunlap,Male,96299,White Collar
+EMP 9,ACCOUNTING,Group D,Part Time,Married,33,Los Angeles,7/18/2023,Active,1,5,3 Years,2 Years,Bachelor,Low,Medium,Excellent,Medium,Bad,Holcomb,Male,114300,Other
+EMP 10,HUMAN RESOURCES,Group A,Full Time,Divorced,35,Seattle,11/7/2022,Non Active,4,6,3 Years,2 Years,Bachelor,Medium,Low,Good,Low,Best,Mckenzie,Male,93454,White Collar
+EMP 11,RESEARCH AND DEVELOPMENT,Group C,Full Time,Married,43,Houston,2/10/2022,Active,4,7,3 Years,1 Year,College,Low,Very High,Excellent,Very High,Best,Fernandez,Female,92831,White Collar
+EMP 12,CUSTOMER SERVICE,Group A,Part Time,Single,46,Los Angeles,8/11/2021,Non Active,6,11,3 Years,3 Years,College,Very High,Very High,Low,High,Bad,Valencia,Male,84824,Other
+EMP 13,CUSTOMER SERVICE,Group C,Full Time,Married,46,Los Angeles,11/29/2022,Non Active,12,7,2 Years,2 Years,Masters,Low,Low,Outstanding,Medium,Best,Christian,Female,98427,Blue Collar
+EMP 14,MEDIA RELATIONS,Group A,Full Time,Married,65,Seattle,6/19/2023,Non Active,7,16,1 Year,2 Years,College,Medium,Very High,Outstanding,Medium,Best,Hutchinson,Female,96148,Other
+EMP 15,RESEARCH AND DEVELOPMENT,Group D,Part Time,Divorced,29,Seattle,7/30/2022,Active,5,15,3 Years,3 Years,Bachelor,High,Very High,Excellent,Low,Best,Mccormick,Male,81996,Blue Collar
+EMP 16,PAYROLL,Group D,Part Time,Divorced,38,Los Angeles,1/1/2022,Non Active,9,16,3 Years,3 Years,College,Medium,Low,Low,High,Bad,Pollard,Male,113880,White Collar
+EMP 17,QUALITY ASSURANCE,Group A,Full Time,Divorced,58,Seattle,10/6/2022,Non Active,11,20,1 Year,1 Year,Bachelor,High,Low,Low,Very High,Better,Wilcox,Male,111484,Blue Collar
+EMP 18,HUMAN RESOURCES,Group D,Part Time,Married,31,Houston,1/26/2021,Active,1,15,1 Year,2 Years,College,Low,Low,Good,Very High,Best,Sutton,Male,80018,Other
+EMP 19,QUALITY ASSURANCE,Group C,Full Time,Divorced,28,Seattle,2/27/2021,Non Active,1,14,1 Year,2 Years,Bachelor,Very High,Very High,Outstanding,Medium,Better,Rivera,Male,101088,White Collar
+EMP 20,ADVERTISING,Group C,Part Time,Divorced,34,Seattle,4/18/2021,Active,12,19,2 Years,3 Years,Doctor,Low,Medium,Low,Medium,Good,Walton,Male,102104,Blue Collar
+EMP 21,SALES AND MARKETING,Group B,Part Time,Divorced,53,Seattle,11/19/2023,Active,1,15,3 Years,1 Year,Masters,High,Medium,Excellent,Low,Good,Norris,Female,99894,Blue Collar
+EMP 22,ASSET MANAGEMENT,Group A,Full Time,Single,64,Los Angeles,8/13/2021,Non Active,10,7,3 Years,2 Years,Bachelor,High,Medium,Low,Very High,Bad,Mcfarland,Female,75045,White Collar
+EMP 23,HUMAN RESOURCES,Group D,Part Time,Single,59,Seattle,6/18/2021,Non Active,7,19,1 Year,2 Years,College,Very High,Low,Good,High,Better,Valentine,Female,96918,White Collar
+EMP 24,ACCOUNTING,Group D,Full Time,Single,62,Los Angeles,6/30/2021,Active,7,20,1 Year,3 Years,College,Medium,Low,Excellent,Low,Best,Hayes,Female,78353,Blue Collar
+EMP 25,ADVERTISING,Group C,Part Time,Divorced,33,Houston,2/8/2021,Active,3,8,3 Years,2 Years,College,High,High,Outstanding,High,Better,Barnett,Female,72394,Blue Collar
+EMP 26,PAYROLL,Group C,Full Time,Divorced,60,Seattle,5/2/2023,Active,12,8,2 Years,1 Year,Doctor,Very High,Very High,Low,Low,Better,Gardner,Male,112365,Other
+EMP 27,CUSTOMER SERVICE,Group B,Full Time,Single,61,Houston,3/11/2023,Non Active,2,14,2 Years,1 Year,Bachelor,Low,Medium,Outstanding,High,Good,Austin,Male,88990,Blue Collar
+EMP 28,CUSTOMER RELATIONS,Group A,Part Time,Single,61,Houston,12/24/2023,Active,3,7,3 Years,2 Years,Doctor,Low,Very High,Low,Low,Bad,Strickland,Female,98379,Blue Collar
+EMP 29,CUSTOMER SERVICE,Group D,Full Time,Single,25,Seattle,11/1/2023,Non Active,3,15,3 Years,1 Year,Doctor,Very High,Medium,Low,Low,Better,Calhoun,Male,92603,White Collar
+EMP 29,CUSTOMER SERVICE,Group D,Full Time,Single,25,Seattle,11/1/2023,Non Active,3,15,3 Years,1 Year,Doctor,Very High,Medium,Low,Low,Better,Calhoun,Male,92603,White Collar
+EMP 30,QUALITY ASSURANCE,Group B,Part Time,Single,52,New York City,10/14/2021,Active,9,6,3 Years,2 Years,Bachelor,Low,Medium,Excellent,Low,Best,Roy,Male,70019,Other
+EMP 31,ADVERTISING,Group B,Full Time,Married,53,Seattle,6/17/2021,Active,9,14,2 Years,2 Years,Masters,High,Low,Excellent,High,Better,Paul,Male,97655,White Collar
+EMP 32,TECH SUPPORT,Group A,Part Time,Married,63,Seattle,4/5/2021,Non Active,12,18,3 Years,1 Year,College,High,High,Outstanding,High,Bad,Rowe,Male,84190,White Collar
+EMP 33,TECH SUPPORT,Group D,Full Time,Single,24,New York City,5/22/2021,Active,2,19,3 Years,2 Years,Doctor,Low,Low,Outstanding,Medium,Good,Luna,Female,113237,Other
+EMP 34,QUALITY ASSURANCE,Group C,Full Time,Married,41,New York City,5/23/2023,Non Active,2,20,3 Years,3 Years,College,High,Low,Outstanding,Medium,Better,Wiggins,Male,111874,White Collar
+EMP 35,PAYROLL,Group C,Full Time,Married,61,Seattle,8/27/2022,Non Active,3,11,2 Years,3 Years,Doctor,Medium,Medium,Low,Medium,Good,Castaneda,Female,92645,Other
+EMP 36,ADVERTISING,Group D,Full Time,Married,60,New York City,12/3/2021,Active,9,7,3 Years,1 Year,Bachelor,Low,High,Good,High,Good,Briggs,Female,97756,White Collar
+EMP 37,MEDIA RELATIONS,Group B,Full Time,Divorced,64,New York City,5/5/2023,Active,8,7,1 Year,3 Years,Masters,Very High,High,Low,High,Good,Battle,Female,116647,White Collar
+EMP 38,CUSTOMER RELATIONS,Group C,Full Time,Single,55,Houston,9/11/2021,Active,7,5,2 Years,3 Years,College,Low,Very High,Outstanding,Very High,Bad,West,Female,93947,Other
+EMP 39,CUSTOMER RELATIONS,Group C,Full Time,Single,29,Los Angeles,9/3/2022,Non Active,12,11,2 Years,1 Year,Bachelor,Medium,Low,Low,High,Good,Hunter,Male,70223,Blue Collar
+EMP 40,ACCOUNTING,Group B,Full Time,Divorced,29,Los Angeles,4/30/2021,Active,5,12,2 Years,2 Years,College,High,High,Excellent,Medium,Better,Fischer,Female,119186,Blue Collar
+EMP 41,PUBLIC RELATIONS,Group D,Full Time,Single,52,Seattle,8/18/2023,Non Active,12,15,3 Years,2 Years,Masters,High,Very High,Low,Very High,Bad,Burns,Female,82059,Blue Collar
+EMP 42,PUBLIC RELATIONS,Group A,Full Time,Single,50,Houston,2/6/2023,Active,8,14,3 Years,3 Years,College,High,High,Low,Medium,Better,Cameron,Female,73501,White Collar
+EMP 43,CUSTOMER RELATIONS,Group B,Part Time,Divorced,54,Los Angeles,11/5/2021,Non Active,3,12,1 Year,1 Year,College,Low,Medium,Excellent,High,Better,Deleon,Male,113676,Other
+EMP 44,MEDIA RELATIONS,Group C,Full Time,Divorced,47,New York City,1/3/2023,Non Active,9,20,3 Years,1 Year,College,Low,High,Outstanding,Very High,Bad,Fleming,Male,88138,Other
+EMP 45,RESEARCH AND DEVELOPMENT,Group B,Full Time,Single,62,Los Angeles,5/17/2023,Non Active,6,7,1 Year,2 Years,Doctor,High,Very High,Low,Very High,Bad,Pittman,Male,72825,Blue Collar
+EMP 46,ACCOUNTING,Group C,Full Time,Married,49,Los Angeles,8/25/2022,Active,2,18,1 Year,3 Years,Masters,High,Medium,Excellent,High,Bad,Buchanan,Male,103311,Other
+EMP 47,CUSTOMER RELATIONS,Group A,Full Time,Divorced,60,Los Angeles,3/16/2021,Non Active,4,10,1 Year,2 Years,Bachelor,Medium,Low,Low,High,Good,Henry,Female,80538,Other
+EMP 48,HUMAN RESOURCES,Group B,Part Time,Single,33,Seattle,3/14/2022,Non Active,7,8,1 Year,2 Years,Doctor,High,Very High,Low,Very High,Good,Barry,Female,106830,Other
+EMP 49,MEDIA RELATIONS,Group B,Part Time,Married,38,New York City,10/29/2022,Active,10,15,1 Year,1 Year,Bachelor,Medium,Low,Good,Medium,Better,Cobb,Male,84339,Blue Collar
+EMP 50,CUSTOMER RELATIONS,Group C,Part Time,Married,45,Houston,6/17/2021,Active,7,6,2 Years,1 Year,College,Medium,High,Outstanding,Low,Best,Richard,Female,115358,White Collar
+EMP 51,QUALITY ASSURANCE,Group C,Part Time,Divorced,29,Houston,6/7/2021,Non Active,11,10,2 Years,1 Year,College,Very High,High,Good,High,Good,Roach,Male,74748,Blue Collar
+EMP 51,QUALITY ASSURANCE,Group C,Part Time,Divorced,29,Houston,6/7/2021,Non Active,11,10,2 Years,1 Year,College,Very High,High,Good,High,Good,Roach,Male,74748,Blue Collar
+EMP 52,PUBLIC RELATIONS,Group A,Part Time,Married,53,Houston,9/23/2022,Non Active,5,8,3 Years,2 Years,College,Medium,Medium,Excellent,Medium,Better,Wolf,Female,99908,White Collar
+EMP 53,HUMAN RESOURCES,Group B,Full Time,Married,56,Seattle,6/7/2021,Non Active,9,12,1 Year,2 Years,Masters,Low,Low,Low,Very High,Better,Travis,Female,102629,Blue Collar
+EMP 54,MEDIA RELATIONS,Group A,Full Time,Married,47,Los Angeles,11/14/2023,Active,6,13,2 Years,1 Year,Bachelor,Medium,High,Good,Very High,Best,Bradford,Female,73232,Other
+EMP 55,MEDIA RELATIONS,Group B,Full Time,Single,54,New York City,10/18/2021,Non Active,10,10,2 Years,2 Years,Bachelor,Low,Medium,Good,Very High,Good,Mcgee,Male,109471,White Collar
+EMP 56,ADVERTISING,Group A,Part Time,Married,60,Houston,4/8/2021,Non Active,11,17,3 Years,3 Years,College,Medium,Medium,Excellent,Very High,Best,Whitehead,Male,119560,White Collar
+EMP 57,ADVERTISING,Group B,Full Time,Single,33,Los Angeles,3/19/2023,Non Active,1,7,3 Years,2 Years,Bachelor,Medium,Very High,Low,Low,Good,Lopez,Female,110179,White Collar
+EMP 58,CUSTOMER RELATIONS,Group D,Full Time,Married,37,Houston,4/21/2022,Non Active,6,9,1 Year,1 Year,Bachelor,Very High,High,Low,Medium,Better,Kim,Male,95528,White Collar
+EMP 59,ACCOUNTING,Group A,Full Time,Married,32,New York City,8/6/2021,Non Active,5,11,1 Year,3 Years,Bachelor,High,Medium,Excellent,Very High,Best,Oneal,Male,119080,White Collar
+EMP 60,LEGAL DEPARTMENT,Group C,Full Time,Single,30,Los Angeles,6/4/2023,Non Active,8,18,2 Years,1 Year,Doctor,Low,Medium,Outstanding,Low,Good,Hogan,Female,97993,Blue Collar
+EMP 61,ADVERTISING,Group A,Full Time,Divorced,46,Seattle,6/4/2021,Active,9,10,3 Years,2 Years,Masters,Medium,Very High,Excellent,Medium,Best,Velasquez,Female,76656,Other
+EMP 62,FINANCES,Group A,Full Time,Single,52,Houston,4/21/2023,Non Active,4,11,3 Years,1 Year,College,Medium,Low,Good,High,Best,Pope,Male,91041,Other
+EMP 63,ASSET MANAGEMENT,Group A,Part Time,Single,52,Los Angeles,9/28/2023,Active,5,20,2 Years,2 Years,College,Low,Very High,Outstanding,Medium,Better,Roman,Female,115076,Blue Collar
+EMP 64,PAYROLL,Group A,Full Time,Married,26,New York City,8/21/2022,Active,9,16,1 Year,3 Years,Doctor,Medium,High,Low,High,Better,Duncan,Female,108093,Blue Collar
+EMP 64,PAYROLL,Group A,Full Time,Married,26,New York City,8/21/2022,Active,9,16,1 Year,3 Years,Doctor,Medium,High,Low,High,Better,Duncan,Female,108093,Blue Collar
+EMP 65,ACCOUNTING,Group B,Full Time,Single,50,Los Angeles,1/4/2022,Active,2,12,3 Years,2 Years,College,Medium,Low,Good,Very High,Bad,Griffith,Male,76378,White Collar
+EMP 66,ACCOUNTING,Group A,Full Time,Divorced,50,Houston,12/20/2021,Non Active,11,15,2 Years,2 Years,College,Very High,Very High,Outstanding,Low,Bad,Barrett,Male,108452,White Collar
+EMP 67,FINANCES,Group A,Part Time,Married,58,Los Angeles,7/6/2023,Non Active,4,19,1 Year,2 Years,Doctor,Medium,High,Good,Medium,Better,Mullins,Female,73555,Blue Collar
+EMP 68,QUALITY ASSURANCE,Group C,Part Time,Single,40,Los Angeles,5/7/2023,Active,6,20,3 Years,3 Years,Doctor,Medium,High,Good,High,Bad,Franklin,Male,95093,Other
+EMP 69,ACCOUNTING,Group D,Full Time,Single,45,New York City,10/16/2021,Active,2,14,1 Year,3 Years,College,Very High,Medium,Low,Medium,Best,Gilliam,Female,89184,White Collar
+EMP 70,LEGAL DEPARTMENT,Group A,Part Time,Married,36,New York City,2/24/2022,Active,9,8,3 Years,3 Years,Masters,High,Very High,Excellent,Low,Better,Mayer,Female,83769,Other
+EMP 71,CUSTOMER SERVICE,Group A,Full Time,Married,32,Seattle,8/12/2023,Active,3,17,3 Years,2 Years,Bachelor,Very High,Low,Excellent,Very High,Good,Day,Female,79575,White Collar
+EMP 72,CUSTOMER RELATIONS,Group D,Full Time,Single,59,Los Angeles,3/8/2022,Non Active,7,18,2 Years,2 Years,Bachelor,Very High,Low,Excellent,High,Good,Glenn,Male,77117,Other
+EMP 73,CUSTOMER RELATIONS,Group B,Full Time,Married,49,Los Angeles,8/28/2021,Non Active,3,14,2 Years,2 Years,Bachelor,High,Very High,Outstanding,Medium,Better,Salinas,Female,112813,White Collar
+EMP 74,CUSTOMER RELATIONS,Group A,Part Time,Divorced,52,New York City,8/21/2021,Non Active,9,5,3 Years,3 Years,Doctor,High,Low,Excellent,High,Better,Mcgee,Female,116513,Other
+EMP 75,FINANCES,Group D,Full Time,Married,62,Los Angeles,3/23/2021,Active,9,9,3 Years,3 Years,College,High,High,Low,Very High,Bad,Walters,Male,107678,Blue Collar
+EMP 76,RESEARCH AND DEVELOPMENT,Group C,Part Time,Divorced,59,Los Angeles,11/30/2022,Active,10,15,2 Years,1 Year,Doctor,Low,High,Outstanding,High,Good,Frye,Female,118450,White Collar
+EMP 77,LEGAL DEPARTMENT,Group A,Full Time,Single,45,Seattle,8/17/2023,Non Active,1,6,2 Years,3 Years,Masters,Very High,Low,Good,Low,Better,Sutton,Female,99851,Other
+EMP 78,LEGAL DEPARTMENT,Group A,Part Time,Divorced,52,Seattle,6/17/2022,Active,4,14,2 Years,2 Years,Doctor,Very High,High,Good,High,Better,Conway,Female,119541,Blue Collar
+EMP 79,SALES AND MARKETING,Group B,Part Time,Single,24,Los Angeles,11/25/2022,Active,1,16,1 Year,3 Years,Bachelor,Medium,Low,Low,Low,Best,Dixon,Male,89040,Other
+EMP 79,SALES AND MARKETING,Group B,Part Time,Single,24,Los Angeles,11/25/2022,Active,1,16,1 Year,3 Years,Bachelor,Medium,Low,Low,Low,Best,Dixon,Male,89040,Other
+EMP 80,SALES AND MARKETING,Group A,Part Time,Married,41,New York City,8/5/2023,Active,8,6,2 Years,3 Years,Masters,High,High,Good,Very High,Good,Duke,Female,105288,Blue Collar
+EMP 81,ADVERTISING,Group D,Full Time,Married,53,Houston,11/7/2023,Active,9,6,3 Years,3 Years,Bachelor,High,Very High,Good,Medium,Better,Castillo,Female,78627,Blue Collar
+EMP 82,ADVERTISING,Group C,Part Time,Married,56,New York City,7/27/2023,Active,12,8,1 Year,3 Years,College,High,Medium,Good,High,Good,Patton,Male,80152,Other
+EMP 83,LEGAL DEPARTMENT,Group B,Part Time,Married,42,New York City,7/11/2022,Active,2,13,3 Years,1 Year,Doctor,Medium,Medium,Good,Low,Bad,Shepherd,Male,96028,Blue Collar
+EMP 84,TECH SUPPORT,Group C,Part Time,Married,39,Houston,8/15/2023,Active,9,10,3 Years,2 Years,College,Medium,Low,Good,Low,Good,Underwood,Female,115369,Other
+EMP 85,QUALITY ASSURANCE,Group B,Full Time,Divorced,35,Los Angeles,11/5/2021,Non Active,9,18,1 Year,3 Years,Masters,Low,Low,Excellent,Very High,Good,Sandoval,Female,85548,Other
+EMP 86,RESEARCH AND DEVELOPMENT,Group C,Part Time,Single,38,Seattle,7/28/2021,Non Active,5,7,2 Years,2 Years,Doctor,Medium,Low,Good,Medium,Good,Swanson,Male,70730,Blue Collar
+EMP 87,RESEARCH AND DEVELOPMENT,Group A,Full Time,Divorced,24,Seattle,3/10/2022,Non Active,3,14,1 Year,1 Year,Bachelor,Very High,Low,Low,High,Bad,Prince,Male,89529,Blue Collar
+EMP 88,TECH SUPPORT,Group B,Part Time,Divorced,63,Houston,11/30/2023,Non Active,1,19,1 Year,3 Years,Doctor,Very High,High,Excellent,Very High,Better,Cohen,Female,88394,Blue Collar
+EMP 89,HUMAN RESOURCES,Group D,Full Time,Divorced,44,Seattle,7/24/2022,Non Active,5,10,2 Years,1 Year,College,Very High,High,Excellent,Low,Better,Daniels,Female,92367,Other
+EMP 90,ASSET MANAGEMENT,Group B,Part Time,Single,43,Houston,3/7/2021,Active,12,17,1 Year,3 Years,College,High,Medium,Excellent,Medium,Best,Conway,Male,116532,Other
+EMP 91,ADVERTISING,Group B,Full Time,Single,49,Seattle,4/1/2022,Active,2,13,1 Year,3 Years,Masters,Medium,High,Low,Very High,Better,Bryan,Male,85948,White Collar
+EMP 92,LEGAL DEPARTMENT,Group C,Part Time,Divorced,35,Houston,8/31/2023,Active,7,20,1 Year,2 Years,College,High,Low,Excellent,High,Good,Beasley,Male,116087,White Collar
+EMP 93,RESEARCH AND DEVELOPMENT,Group C,Full Time,Married,45,Houston,7/9/2022,Non Active,7,11,1 Year,2 Years,Doctor,High,Low,Good,High,Bad,Bass,Female,98501,Blue Collar
+EMP 94,ADVERTISING,Group C,Part Time,Divorced,57,Houston,8/6/2023,Non Active,11,16,2 Years,2 Years,Doctor,Low,High,Outstanding,High,Better,Bartlett,Male,78545,Other
+EMP 95,PUBLIC RELATIONS,Group D,Part Time,Single,55,Los Angeles,6/25/2023,Non Active,11,5,1 Year,2 Years,Bachelor,Medium,Medium,Excellent,Low,Best,Ferrell,Male,97603,Other
+EMP 96,ASSET MANAGEMENT,Group C,Part Time,Single,33,Seattle,5/1/2022,Non Active,2,19,3 Years,1 Year,Doctor,Medium,Very High,Good,Low,Bad,Velazquez,Male,89763,Other
+EMP 97,CUSTOMER SERVICE,Group D,Full Time,Single,39,New York City,3/23/2021,Non Active,3,10,1 Year,1 Year,Bachelor,High,High,Good,Low,Bad,Camacho,Male,113221,Other
+EMP 98,ACCOUNTING,Group C,Part Time,Divorced,42,Houston,12/28/2023,Active,10,9,2 Years,1 Year,Bachelor,High,High,Good,High,Bad,Estrada,Female,81578,Other
+EMP 99,TECH SUPPORT,Group B,Part Time,Single,49,Houston,5/2/2021,Non Active,4,8,1 Year,2 Years,Masters,High,Low,Good,High,Best,Snider,Female,117631,Other
+EMP 100,LEGAL DEPARTMENT,Group D,Part Time,Divorced,34,Los Angeles,9/28/2021,Non Active,1,11,1 Year,1 Year,Doctor,Low,Medium,Good,Low,Best,Buck,Male,75874,White Collar
+EMP 101,RESEARCH AND DEVELOPMENT,Group A,Full Time,Divorced,46,Los Angeles,7/18/2021,Non Active,3,12,2 Years,3 Years,Doctor,Medium,High,Excellent,Very High,Bad,Sutton,Female,73682,Blue Collar
+EMP 102,FINANCES,Group D,Full Time,Single,58,Seattle,9/4/2023,Non Active,5,5,1 Year,2 Years,Masters,High,Medium,Excellent,High,Best,Boone,Female,102922,Blue Collar
+EMP 103,QUALITY ASSURANCE,Group A,Full Time,Married,36,New York City,2/3/2021,Active,12,10,2 Years,3 Years,Masters,High,High,Excellent,Very High,Bad,Case,Male,100733,Blue Collar
+EMP 104,PUBLIC RELATIONS,Group B,Full Time,Married,44,New York City,6/23/2023,Active,12,16,3 Years,1 Year,Doctor,Medium,Medium,Low,Medium,Better,Fitzpatrick,Female,115936,Other
+EMP 105,CUSTOMER SERVICE,Group C,Full Time,Single,54,Los Angeles,3/18/2021,Active,12,9,1 Year,2 Years,Bachelor,Low,Low,Excellent,Low,Better,Holmes,Female,71769,White Collar
+EMP 106,RESEARCH AND DEVELOPMENT,Group D,Full Time,Divorced,42,Los Angeles,6/9/2023,Non Active,5,18,1 Year,1 Year,Masters,Very High,High,Good,Medium,Better,Oneil,Male,76683,White Collar
+EMP 107,HUMAN RESOURCES,Group B,Part Time,Married,30,New York City,11/10/2021,Non Active,7,10,2 Years,1 Year,Doctor,Very High,Medium,Outstanding,Low,Best,Mays,Male,108843,Other
+EMP 108,ACCOUNTING,Group B,Part Time,Divorced,25,Houston,7/9/2022,Active,1,15,1 Year,2 Years,Bachelor,Very High,Low,Outstanding,High,Bad,Mcintosh,Female,92103,Other
+EMP 109,CUSTOMER RELATIONS,Group D,Part Time,Divorced,45,Los Angeles,1/26/2021,Active,8,6,3 Years,3 Years,College,Very High,Medium,Good,High,Best,Parks,Female,109241,White Collar
+EMP 110,MEDIA RELATIONS,Group C,Part Time,Married,56,Seattle,10/10/2023,Non Active,4,18,3 Years,3 Years,Masters,Very High,High,Low,Low,Bad,Hutchinson,Female,98618,Other
+EMP 111,FINANCES,Group D,Full Time,Single,26,Seattle,12/9/2022,Active,9,16,2 Years,1 Year,Doctor,Low,Medium,Good,Low,Bad,Mathews,Female,72800,Other
+EMP 112,HUMAN RESOURCES,Group C,Full Time,Single,30,Houston,6/28/2022,Non Active,3,9,2 Years,2 Years,Masters,Very High,High,Good,Medium,Best,Mcdaniel,Female,99710,White Collar
+EMP 113,ACCOUNTING,Group C,Full Time,Divorced,58,Houston,6/16/2023,Non Active,1,20,1 Year,3 Years,Doctor,Low,Very High,Low,Medium,Bad,Mayo,Male,88076,White Collar
+EMP 114,ASSET MANAGEMENT,Group C,Full Time,Divorced,62,Seattle,2/6/2022,Non Active,2,13,1 Year,3 Years,Masters,Low,Low,Low,Low,Bad,Dickson,Male,83415,Blue Collar
+EMP 115,RESEARCH AND DEVELOPMENT,Group B,Part Time,Married,52,Los Angeles,3/4/2023,Active,9,13,3 Years,2 Years,Bachelor,Low,Medium,Good,Low,Good,Woodard,Male,108980,Other
+EMP 116,FINANCES,Group D,Full Time,Single,43,New York City,6/11/2022,Non Active,10,10,3 Years,1 Year,Doctor,Low,Very High,Outstanding,Very High,Good,Barry,Male,103683,White Collar
+EMP 117,HUMAN RESOURCES,Group A,Part Time,Married,28,Los Angeles,8/4/2021,Non Active,3,18,1 Year,3 Years,Masters,Very High,Medium,Excellent,High,Best,Murphy,Female,117033,Other
+EMP 118,FINANCES,Group C,Full Time,Single,47,Seattle,6/15/2022,Active,5,11,2 Years,1 Year,Bachelor,High,Medium,Good,Very High,Best,Wall,Female,72675,Blue Collar
+EMP 119,PAYROLL,Group D,Part Time,Single,39,Houston,9/6/2022,Active,12,9,2 Years,1 Year,Masters,Medium,Low,Excellent,Medium,Best,Clay,Female,81312,Blue Collar
+EMP 119,PAYROLL,Group D,Part Time,Single,39,Houston,9/6/2022,Active,12,9,2 Years,1 Year,Masters,Medium,Low,Excellent,Medium,Best,Clay,Female,81312,Blue Collar
+EMP 120,ASSET MANAGEMENT,Group A,Full Time,Married,38,Seattle,8/1/2023,Active,9,11,2 Years,2 Years,Bachelor,Very High,Very High,Excellent,Low,Best,Hinton,Male,99736,White Collar
+EMP 121,PAYROLL,Group B,Part Time,Married,56,Houston,5/19/2021,Active,3,16,3 Years,1 Year,Bachelor,Very High,Very High,Outstanding,High,Better,Duffy,Female,102431,Other
+EMP 122,CUSTOMER SERVICE,Group C,Full Time,Divorced,33,Los Angeles,9/28/2022,Active,4,11,1 Year,2 Years,Doctor,High,Very High,Excellent,Medium,Best,Nguyen,Female,113860,White Collar
+EMP 123,PUBLIC RELATIONS,Group C,Part Time,Single,53,Houston,12/31/2023,Active,6,9,2 Years,3 Years,Doctor,Very High,Very High,Outstanding,High,Better,Wilkerson,Male,97111,Other
+EMP 124,CUSTOMER RELATIONS,Group D,Full Time,Married,33,Los Angeles,4/19/2023,Non Active,4,17,1 Year,1 Year,Masters,Very High,High,Good,Low,Good,Faulkner,Male,80132,Blue Collar
+EMP 125,LEGAL DEPARTMENT,Group D,Part Time,Married,46,Seattle,4/18/2021,Active,10,11,2 Years,2 Years,Doctor,Very High,Medium,Low,Medium,Bad,Jacobson,Male,93357,White Collar
+EMP 126,ADVERTISING,Group D,Part Time,Married,46,Seattle,5/24/2022,Active,9,18,1 Year,1 Year,College,Medium,Very High,Low,Low,Good,Klein,Female,115813,Other
+EMP 127,LEGAL DEPARTMENT,Group A,Full Time,Married,39,New York City,11/6/2022,Active,11,11,1 Year,2 Years,College,Medium,Very High,Excellent,High,Better,Harrington,Male,97644,Other
+EMP 128,CUSTOMER SERVICE,Group C,Full Time,Divorced,52,New York City,1/7/2023,Non Active,11,11,2 Years,1 Year,Doctor,Low,High,Low,Medium,Better,Ramos,Male,72847,Other
+EMP 129,PUBLIC RELATIONS,Group A,Full Time,Married,38,Seattle,2/7/2023,Active,1,13,2 Years,1 Year,Bachelor,High,Low,Excellent,Medium,Good,Morales,Female,89150,Blue Collar
+EMP 130,FINANCES,Group B,Full Time,Divorced,47,Seattle,9/30/2023,Non Active,1,16,2 Years,3 Years,Doctor,Low,Medium,Good,Medium,Bad,Slater,Male,114631,White Collar
+EMP 131,MEDIA RELATIONS,Group D,Part Time,Single,43,Seattle,2/15/2023,Non Active,3,14,3 Years,1 Year,Doctor,High,High,Good,High,Good,Everett,Female,108857,Other
+EMP 132,HUMAN RESOURCES,Group B,Full Time,Divorced,33,New York City,2/25/2021,Non Active,6,20,2 Years,1 Year,Doctor,Very High,Low,Low,Medium,Best,Hood,Male,114605,White Collar
+EMP 133,HUMAN RESOURCES,Group A,Full Time,Divorced,63,Seattle,8/19/2021,Non Active,1,11,1 Year,2 Years,Masters,Very High,Medium,Good,Medium,Best,Glover,Male,103331,Other
+EMP 134,ACCOUNTING,Group B,Full Time,Married,56,Seattle,10/10/2023,Active,2,17,2 Years,3 Years,Doctor,Very High,Medium,Excellent,High,Better,Hahn,Female,83571,Other
+EMP 135,SALES AND MARKETING,Group B,Part Time,Married,53,Seattle,4/27/2021,Active,11,15,1 Year,3 Years,College,Medium,High,Excellent,Medium,Good,Collins,Male,84461,White Collar
+EMP 136,PUBLIC RELATIONS,Group D,Full Time,Single,28,Houston,5/15/2023,Non Active,10,7,1 Year,1 Year,Masters,Very High,Very High,Outstanding,Very High,Good,Reid,Male,111032,White Collar
+EMP 137,HUMAN RESOURCES,Group B,Full Time,Divorced,28,Houston,11/27/2022,Non Active,11,20,2 Years,2 Years,Bachelor,Very High,Low,Low,Low,Bad,Haley,Female,81212,Other
+EMP 138,PUBLIC RELATIONS,Group B,Part Time,Single,63,Seattle,9/23/2023,Active,12,7,3 Years,3 Years,College,Low,Very High,Excellent,Medium,Best,Duffy,Male,115148,Other
+EMP 139,HUMAN RESOURCES,Group B,Part Time,Married,35,Houston,6/29/2021,Active,5,6,3 Years,1 Year,College,Low,High,Low,Low,Best,Sears,Male,74581,Blue Collar
+EMP 140,FINANCES,Group C,Full Time,Married,27,Houston,6/27/2022,Active,3,12,3 Years,1 Year,Bachelor,High,Low,Outstanding,Very High,Good,Weber,Male,116002,Blue Collar
+EMP 141,PUBLIC RELATIONS,Group C,Full Time,Divorced,55,New York City,12/22/2022,Active,6,7,2 Years,2 Years,Doctor,Medium,Medium,Outstanding,Very High,Best,Flowers,Female,114432,White Collar
+EMP 142,FINANCES,Group D,Part Time,Married,61,Los Angeles,6/15/2023,Non Active,8,14,2 Years,3 Years,Bachelor,Medium,Very High,Good,Low,Good,Eaton,Male,80519,Blue Collar
+EMP 143,RESEARCH AND DEVELOPMENT,Group A,Full Time,Married,44,Seattle,4/3/2021,Active,5,17,1 Year,2 Years,Doctor,Medium,Low,Outstanding,Medium,Best,Henson,Female,111411,Blue Collar
+EMP 144,PUBLIC RELATIONS,Group B,Full Time,Single,27,Los Angeles,3/26/2023,Non Active,1,8,1 Year,3 Years,Masters,Very High,Very High,Good,Very High,Bad,Coffey,Male,91354,Blue Collar
+EMP 145,ACCOUNTING,Group C,Part Time,Divorced,34,Los Angeles,1/18/2022,Active,5,18,2 Years,1 Year,Bachelor,Medium,High,Low,High,Best,Buchanan,Female,116291,Blue Collar
+EMP 146,CUSTOMER RELATIONS,Group A,Part Time,Married,64,Los Angeles,12/13/2023,Active,8,5,2 Years,3 Years,Bachelor,High,Low,Excellent,Low,Good,Fitzpatrick,Male,74487,Blue Collar
+EMP 147,MEDIA RELATIONS,Group A,Full Time,Single,35,Houston,5/14/2022,Non Active,9,18,1 Year,3 Years,Masters,Medium,High,Low,Medium,Better,Kirkland,Female,107000,White Collar
+EMP 148,QUALITY ASSURANCE,Group B,Part Time,Single,37,Los Angeles,2/8/2021,Active,8,18,1 Year,2 Years,College,Low,Low,Low,High,Better,Browning,Female,89922,Blue Collar
+EMP 149,TECH SUPPORT,Group D,Part Time,Single,49,Los Angeles,12/6/2021,Non Active,10,11,2 Years,2 Years,Bachelor,Medium,High,Outstanding,Medium,Bad,Edwards,Female,108925,Other
+EMP 150,PAYROLL,Group C,Part Time,Married,47,Los Angeles,7/12/2023,Non Active,4,10,2 Years,1 Year,Bachelor,High,Medium,Outstanding,High,Bad,Leblanc,Female,115614,Blue Collar
+EMP 151,ACCOUNTING,Group D,Part Time,Single,25,Seattle,9/27/2023,Non Active,6,5,1 Year,1 Year,College,High,Low,Excellent,Medium,Better,Mendez,Male,99093,Blue Collar
+EMP 152,CUSTOMER RELATIONS,Group A,Part Time,Divorced,33,Los Angeles,8/24/2023,Active,11,15,1 Year,3 Years,Masters,Low,Low,Low,Low,Bad,Slater,Male,102903,Other
+EMP 153,PUBLIC RELATIONS,Group C,Part Time,Married,52,Seattle,8/13/2022,Active,4,16,1 Year,3 Years,Doctor,Medium,Low,Good,Low,Better,Boyer,Female,112779,White Collar
+EMP 154,ACCOUNTING,Group B,Part Time,Married,62,Houston,5/18/2023,Active,3,5,1 Year,2 Years,Masters,Very High,Very High,Outstanding,Very High,Best,Pearson,Male,86743,Blue Collar
+EMP 155,ADVERTISING,Group A,Full Time,Single,40,Seattle,2/6/2021,Non Active,4,18,3 Years,3 Years,Bachelor,Very High,Low,Excellent,Low,Good,Crawford,Male,83245,Other
+EMP 156,MEDIA RELATIONS,Group C,Part Time,Married,52,Los Angeles,4/6/2021,Non Active,2,20,3 Years,3 Years,College,Low,Very High,Low,Very High,Bad,Curry,Male,82662,Blue Collar
+EMP 157,PUBLIC RELATIONS,Group D,Part Time,Married,37,Houston,4/3/2022,Non Active,1,6,1 Year,1 Year,College,Low,Very High,Good,Medium,Better,Walls,Male,80590,Other
+EMP 158,PAYROLL,Group D,Part Time,Divorced,29,Los Angeles,1/12/2021,Non Active,6,13,2 Years,3 Years,Doctor,High,Very High,Excellent,Low,Good,Pierce,Male,98774,White Collar
+EMP 159,MEDIA RELATIONS,Group D,Part Time,Divorced,40,Houston,9/8/2023,Active,10,13,3 Years,3 Years,Doctor,High,Low,Low,Medium,Best,Webster,Male,114207,Blue Collar
+EMP 160,LEGAL DEPARTMENT,Group A,Full Time,Divorced,61,Seattle,12/26/2021,Active,10,19,3 Years,3 Years,College,Medium,Medium,Low,High,Bad,Poole,Male,104714,White Collar
+EMP 161,ADVERTISING,Group D,Part Time,Divorced,28,New York City,9/7/2021,Non Active,12,19,3 Years,1 Year,Doctor,High,Very High,Excellent,High,Bad,Watson,Female,88496,Blue Collar
+EMP 162,PAYROLL,Group B,Part Time,Married,55,New York City,12/29/2023,Non Active,9,15,1 Year,2 Years,Masters,Very High,Very High,Excellent,High,Good,Greene,Male,87961,Blue Collar
+EMP 163,TECH SUPPORT,Group D,Part Time,Single,41,Seattle,10/7/2023,Non Active,3,14,1 Year,3 Years,Bachelor,High,Medium,Outstanding,Medium,Bad,Goff,Female,102940,Blue Collar
+EMP 164,LEGAL DEPARTMENT,Group B,Full Time,Divorced,27,Los Angeles,6/6/2021,Active,9,6,2 Years,1 Year,College,Medium,High,Excellent,Very High,Bad,Waters,Female,83617,White Collar
+EMP 165,ASSET MANAGEMENT,Group D,Part Time,Married,48,Houston,4/18/2023,Non Active,8,16,1 Year,2 Years,Masters,Low,Medium,Excellent,Very High,Bad,Rogers,Male,112122,White Collar
+EMP 166,QUALITY ASSURANCE,Group B,Full Time,Single,54,Seattle,12/17/2021,Active,1,6,1 Year,1 Year,Masters,High,Low,Good,Medium,Bad,Garcia,Female,74992,White Collar
+EMP 166,QUALITY ASSURANCE,Group B,Full Time,Single,54,Seattle,12/17/2021,Active,1,6,1 Year,1 Year,Masters,High,Low,Good,Medium,Bad,Garcia,Female,74992,White Collar
+EMP 167,LEGAL DEPARTMENT,Group B,Full Time,Divorced,33,Los Angeles,11/26/2021,Active,5,11,1 Year,1 Year,Doctor,Very High,Very High,Low,High,Best,Olson,Male,78517,Other
+EMP 168,QUALITY ASSURANCE,Group A,Full Time,Single,51,Los Angeles,4/22/2021,Non Active,5,19,3 Years,2 Years,College,Very High,Medium,Low,High,Best,Bonner,Male,105746,Other
+EMP 169,PAYROLL,Group D,Full Time,Divorced,36,Houston,6/19/2021,Active,5,9,2 Years,1 Year,Doctor,High,Medium,Outstanding,Very High,Best,Santos,Female,108589,White Collar
+EMP 170,CUSTOMER RELATIONS,Group B,Part Time,Divorced,52,Seattle,3/8/2021,Non Active,5,5,1 Year,2 Years,Masters,Very High,Very High,Low,High,Bad,Garza,Male,89758,Blue Collar
+EMP 171,ASSET MANAGEMENT,Group D,Full Time,Married,33,Houston,9/9/2022,Active,3,5,1 Year,2 Years,Bachelor,High,Low,Outstanding,Low,Best,Valenzuela,Male,105764,Blue Collar
+EMP 172,TECH SUPPORT,Group A,Full Time,Divorced,65,Seattle,11/4/2023,Non Active,12,18,2 Years,3 Years,College,Low,Medium,Outstanding,Medium,Bad,Rodriguez,Female,110773,White Collar
+EMP 173,PAYROLL,Group D,Part Time,Divorced,43,Seattle,8/22/2023,Active,3,8,2 Years,2 Years,Bachelor,Very High,Low,Good,Very High,Good,Hooper,Female,111678,Blue Collar
+EMP 174,LEGAL DEPARTMENT,Group A,Part Time,Single,49,Houston,8/31/2023,Non Active,2,12,3 Years,1 Year,Doctor,Medium,Low,Good,Medium,Best,Hawkins,Male,76978,Other
+EMP 175,RESEARCH AND DEVELOPMENT,Group C,Part Time,Married,64,Houston,9/21/2023,Active,10,18,2 Years,2 Years,Doctor,Medium,High,Low,Medium,Good,Peck,Male,96688,White Collar
+EMP 176,PAYROLL,Group C,Full Time,Divorced,41,Houston,9/27/2021,Non Active,4,18,3 Years,1 Year,Masters,High,High,Excellent,Medium,Better,Barnes,Male,87965,Other
+EMP 177,CUSTOMER RELATIONS,Group D,Part Time,Divorced,26,Seattle,8/2/2021,Non Active,10,12,2 Years,1 Year,Masters,Medium,Medium,Excellent,Medium,Good,Parsons,Male,109699,Blue Collar
+EMP 178,SALES AND MARKETING,Group A,Full Time,Single,51,Seattle,12/4/2022,Non Active,2,16,2 Years,2 Years,Doctor,Low,High,Outstanding,Very High,Good,Humphrey,Male,109478,Blue Collar
+EMP 179,PUBLIC RELATIONS,Group B,Part Time,Divorced,30,Seattle,11/24/2021,Active,4,15,3 Years,1 Year,Doctor,Medium,Very High,Low,Low,Better,Benson,Male,109618,Blue Collar
+EMP 180,CUSTOMER RELATIONS,Group B,Part Time,Divorced,51,Seattle,3/4/2023,Active,11,10,2 Years,2 Years,Doctor,Medium,High,Outstanding,Very High,Best,Fry,Male,116883,Other
+EMP 181,TECH SUPPORT,Group D,Full Time,Married,55,New York City,8/4/2021,Non Active,2,5,3 Years,2 Years,Masters,Low,Low,Outstanding,Medium,Good,Thompson,Male,97196,White Collar
+EMP 182,ASSET MANAGEMENT,Group A,Full Time,Married,34,Los Angeles,5/22/2021,Active,11,19,1 Year,1 Year,College,High,Very High,Good,Very High,Good,Kinney,Female,84117,White Collar
+EMP 183,FINANCES,Group B,Full Time,Married,53,Houston,12/31/2023,Non Active,9,17,3 Years,3 Years,Doctor,High,Very High,Outstanding,Medium,Good,Fisher,Female,105027,Other
+EMP 184,ADVERTISING,Group B,Part Time,Divorced,30,Houston,3/2/2021,Active,1,12,3 Years,1 Year,Masters,High,Low,Excellent,Medium,Better,Clarke,Female,107445,Other
+EMP 185,LEGAL DEPARTMENT,Group C,Full Time,Married,60,Houston,12/26/2023,Non Active,11,15,3 Years,2 Years,Doctor,Very High,High,Outstanding,Very High,Best,Palmer,Female,84436,Other
+EMP 186,FINANCES,Group D,Part Time,Divorced,30,Seattle,12/29/2021,Non Active,8,9,1 Year,1 Year,Doctor,Low,Medium,Good,Medium,Better,Jefferson,Female,107706,Other
+EMP 187,CUSTOMER SERVICE,Group D,Part Time,Single,55,Houston,10/29/2022,Non Active,9,20,2 Years,1 Year,College,Low,Very High,Low,Medium,Bad,Whitney,Male,89750,White Collar
+EMP 188,LEGAL DEPARTMENT,Group C,Part Time,Single,45,Los Angeles,8/7/2022,Non Active,1,16,2 Years,1 Year,Bachelor,Low,High,Outstanding,High,Good,Mendez,Male,72190,Other
+EMP 189,MEDIA RELATIONS,Group A,Full Time,Divorced,47,Los Angeles,5/11/2023,Active,8,8,1 Year,2 Years,Masters,Low,Low,Good,Medium,Good,Francis,Female,81015,White Collar
+EMP 190,LEGAL DEPARTMENT,Group C,Full Time,Divorced,37,Seattle,1/23/2021,Active,7,18,2 Years,3 Years,Bachelor,Very High,Low,Good,High,Better,Bowen,Male,70219,Other
+EMP 191,RESEARCH AND DEVELOPMENT,Group B,Part Time,Married,25,Seattle,5/1/2021,Non Active,4,11,1 Year,1 Year,Doctor,Low,Very High,Good,Medium,Bad,Robbins,Female,93426,White Collar
+EMP 192,FINANCES,Group A,Full Time,Single,28,Seattle,7/11/2023,Active,8,8,2 Years,1 Year,Bachelor,Very High,Very High,Low,Medium,Bad,Roy,Male,86082,Other
+EMP 193,MEDIA RELATIONS,Group D,Full Time,Single,30,Seattle,11/19/2023,Non Active,10,7,3 Years,2 Years,College,Low,Low,Excellent,High,Good,Lewis,Male,101052,Other
+EMP 194,ASSET MANAGEMENT,Group D,Part Time,Single,30,New York City,1/19/2023,Non Active,2,12,1 Year,3 Years,Doctor,Medium,Medium,Excellent,Very High,Good,Davidson,Female,82965,Blue Collar
+EMP 195,PUBLIC RELATIONS,Group D,Part Time,Single,34,Seattle,5/11/2021,Non Active,4,10,2 Years,3 Years,Doctor,Medium,Very High,Low,Medium,Good,Cox,Female,75482,Other
+EMP 196,RESEARCH AND DEVELOPMENT,Group C,Part Time,Divorced,38,Houston,7/14/2021,Non Active,7,7,2 Years,2 Years,Doctor,Medium,High,Outstanding,Medium,Better,Cochran,Female,118036,Blue Collar
+EMP 197,SALES AND MARKETING,Group C,Part Time,Single,64,Seattle,12/9/2022,Active,4,9,2 Years,2 Years,College,Low,Low,Excellent,Very High,Bad,Jenkins,Male,77350,White Collar
+EMP 198,SALES AND MARKETING,Group D,Full Time,Married,43,Los Angeles,6/6/2023,Active,11,13,2 Years,1 Year,Doctor,Medium,High,Low,Medium,Better,Richards,Female,78211,Blue Collar
+EMP 199,ASSET MANAGEMENT,Group C,Part Time,Married,47,New York City,3/15/2022,Active,7,18,2 Years,1 Year,College,Very High,High,Excellent,High,Bad,Avery,Male,90293,Other
